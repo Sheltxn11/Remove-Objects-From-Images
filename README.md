@@ -4,7 +4,7 @@ This project implements an AI-powered solution for automatically removing potted
 
 ## Demo
 
-![Demo Video Link](https://drive.google.com/file/d/1U-2ddgDqzGwiu-9PLHEilWK1XDkGF9lw/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/1U-2ddgDqzGwiu-9PLHEilWK1XDkGF9lw/view?usp=sharing)
 
 ![Comparison Grid](images/comparison_grid.png)
 
